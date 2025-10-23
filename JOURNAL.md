@@ -13,3 +13,14 @@ I finished the schematic yesterday. It is probably done now, but I might still m
 ![screenshot_2025-10-21_09-22-54.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4MywicHVyIjoiYmxvYl9pZCJ9fQ==--c32bdd6aa3f8c6c0282edb18d1042fabcad70e9b/screenshot_2025-10-21_09-22-54.png)
   
 
+## 10/23/2025 - Made the pcb and wired it! :yay:  
+
+Okay, so I actually made the PCB and wired everything. The plan is to make it pretty big so it can be used on the lap, and it’s going to be really sleek and beautiful.
+
+
+![screenshot_2025-10-23_19-54-49.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2NywicHVyIjoiYmxvYl9pZCJ9fQ==--3590b9aa6239066cfcf241c9cd2a2c59c242b2f9/screenshot_2025-10-23_19-54-49.png)
+![screenshot_2025-10-23_19-54-31.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f62e1544ae877428498d976ac4c4d910b2f61796/screenshot_2025-10-23_19-54-31.png)
+![screenshot_2025-10-23_19-54-43.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--901f1e04f929358425660e1896b32aa000d6ccca/screenshot_2025-10-23_19-54-43.png)
+![screenshot_2025-10-23_19-54-38.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--be68c3ecda6c8125f356fae06c7b7ee8e365de7b/screenshot_2025-10-23_19-54-38.png)
+  
+
